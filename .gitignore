@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Vercel
+.vercel
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
